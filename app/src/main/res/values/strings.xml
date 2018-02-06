@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CaloriesCalculate</string>
+    <string name="input_heigth">Введіть ваш зріст (см)</string>
+    <string name="input_weight">Введіть вагу (кг)</string>
+    <string name="years_input">Введіть ваш вік</string>
+    <string name="min_text">Мінімальний рівень</string>
+    <string name="low_text">Низький рівень</string>
+    <string name="middle_text">Середній рівень</string>
+    <string name="hight_text">Високий рівень</string>
+    <string name="very_hight_text">Дуже високий рівень</string>
+    <string name="submit_button_text">Підрахувати добову норму калорій</string>
+    <string name="miff_san_geor_text">Добова норма калорій за формулою Міффліна-Сан Жеора:</string>
+    <string name="garris_ben_text">Добова норма калорій за формулою Гарріса-Бенедикта:</string>
+    <string name="sport_answer_text">Оцініть свої щоденні навантаження:</string>
+    <string name="male_female_answer">Ваша стать:</string>
+    <string name="male_rb">Чоловіча</string>
+    <string name="female_rb">Жіноча</string>
+</resources>
